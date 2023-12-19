@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.8.1)
+  - Eureka (5.4.0)
+  - LDSwiftEventSource (3.1.1)
+  - NMapsGeometry (1.0.1)
+  - NMapsMap (3.17.0):
+    - NMapsGeometry
+  - Starscream (4.0.6)
+
+DEPENDENCIES:
+  - Alamofire
+  - Eureka (~> 5.3)
+  - LDSwiftEventSource (~> 3.1)
+  - NMapsMap
+  - Starscream
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Eureka
+    - LDSwiftEventSource
+    - NMapsGeometry
+    - NMapsMap
+    - Starscream
+
+SPEC CHECKSUMS:
+  Alamofire: 3ca42e259043ee0dc5c0cdd76c4bc568b8e42af7
+  Eureka: fadaa9fa3d6e402d3c60f78f24edf3d7bafc9c29
+  LDSwiftEventSource: 3f9ff84ca80677f9a4f8596757dcb50026e4a13c
+  NMapsGeometry: 53c573ead66466681cf123f99f698dc8071a4b83
+  NMapsMap: a5b909a31b6f3d27a670f6eb2ddc913c38975474
+  Starscream: fb2c4510bebf908c62bd383bcf05e673720e91fd
+
+PODFILE CHECKSUM: 391b161ab3ecba08fdd80fc3ae772453e27bdd69
+
+COCOAPODS: 1.14.3

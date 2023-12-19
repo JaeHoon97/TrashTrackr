@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-p-project/Pods-p-project-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Eureka/Eureka.framework
+${BUILT_PRODUCTS_DIR}/LDSwiftEventSource/LDSwiftEventSource.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/NMapsGeometry/NMapsGeometry.framework/NMapsGeometry
+${PODS_XCFRAMEWORKS_BUILD_DIR}/NMapsMap/NMapsMap.framework/NMapsMap
